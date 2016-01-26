@@ -9,6 +9,7 @@
 
 #j2 {
   color: white;
+  margin-top: 50px;
 }
 
 
@@ -16,4 +17,18 @@
   .smcont img {
     display: none;
   }
+}
+
+/*.display:hover {
+  display: none;
+}*/
+
+.nav {
+    text-align: center;
+    margin-top: 50px;
+    border: solid gray 3px;
+    max-width: 300px;
+    box-sizing: border-box;
+      -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
 }
