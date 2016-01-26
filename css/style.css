@@ -10,3 +10,10 @@
 #j2 {
   color: white;
 }
+
+
+@media (min-width: 500px) {
+  .smcont img {
+    display: none;
+  }
+}
