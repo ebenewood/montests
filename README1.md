@@ -11,4 +11,4 @@ Program/Project Name: Alpha Vacation
 >
 >The navigation bar should link to two external sites.
 >
->The FAQ bar is currently under construction
+>The FAQ bar is currently under construction and has some filler content
