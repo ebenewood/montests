@@ -28,7 +28,13 @@
     margin-top: 50px;
     border: solid gray 3px;
     max-width: 300px;
+    max-height: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
     box-sizing: border-box;
       -moz-box-sizing: border-box;
         -webkit-box-sizing: border-box;
+}
+.alpha{
+  font-weight: bold;
 }
